@@ -4,7 +4,6 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import screenplay.user_interface.SearchPageElements;
 
 import static net.thucydides.core.webdriver.ThucydidesWebDriverSupport.getDriver;
 
